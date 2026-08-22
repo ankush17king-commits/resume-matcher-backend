@@ -141,3 +141,4 @@ def embedding_cosine(resume_text, jd_text):
 
 Then retrain — this is a good "if I had more time" answer to close
 out the interview discussion with.
+**Frontend repo:** https://github.com/ankush17king-commits/resume-matcher-ui
